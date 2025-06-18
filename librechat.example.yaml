@@ -23,7 +23,7 @@ interface:
     externalUrl: 'https://suisse-ai.ch'
     openNewTab: true
     modalAcceptance: true
-    modalTitle: "Terms of Service for LibreChat"
+    modalTitle: "Terms of Service for SuisseGPT"
     modalContent: |
       # Terms and Conditions for LibreChat
 
