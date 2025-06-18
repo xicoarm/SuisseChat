@@ -12,15 +12,15 @@ cache: true
 
 # Custom interface configuration
 interface:
-  customWelcome: "Welcome to LibreChat! Enjoy your experience."
+  customWelcome: "Welcome to SuisseGPT! Enjoy your experience."
   # Privacy policy settings
   privacyPolicy:
-    externalUrl: 'https://librechat.ai/privacy-policy'
+    externalUrl: 'https://suisse-ai.ch'
     openNewTab: true
 
   # Terms of service
   termsOfService:
-    externalUrl: 'https://librechat.ai/tos'
+    externalUrl: 'https://suisse-ai.ch'
     openNewTab: true
     modalAcceptance: true
     modalTitle: "Terms of Service for LibreChat"

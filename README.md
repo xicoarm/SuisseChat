@@ -149,9 +149,9 @@ Click on the thumbnail to open the video☝️
   - **Website:** [github.com/LibreChat-AI/librechat.ai](https://github.com/LibreChat-AI/librechat.ai)
 
 **Other:**
-  - **Website:** [librechat.ai](https://librechat.ai)
-  - **Documentation:** [librechat.ai/docs](https://librechat.ai/docs)
-  - **Blog:** [librechat.ai/blog](https://librechat.ai/blog)
+  - **Website:** [https://suisse-ai.ch](https://suisse-ai.ch)
+  - **Documentation:** [https://suisse-ai.ch](https://suisse-ai.ch)
+  - **Blog:** [https://suisse-ai.ch](https://suisse-ai.ch)
 
 ---
 
